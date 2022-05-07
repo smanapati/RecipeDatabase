@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.control.ScrollPane?>
+<?import javafx.geometry.Insets?>
+<ScrollPane
+        xmlns:fx="http://javafx.com/fxml"
+        fx:controller="com.recipe.recipedatabase.Controller"
+        style="-fx-background: black;"
+        fx:id="scrollPane"
+>
+    <padding>
+        <Insets topRightBottomLeft="10"/>
+    </padding>
+    <VBox fx:id="container" fillWidth="true" style="-fx-background-color: black; -fx-control-inner-background: black;">
+    </VBox>
+</ScrollPane>
