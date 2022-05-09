@@ -36,7 +36,11 @@ There are multiple places where we have used lambda expression.
 # Screenshots  
 The following section presents a sample run of the application.  
 ![sample1](screenshots/sample1.png)  
-![sample2](screenshots/sample2.png)  
-![sample3](screenshots/sample3.png)  
+![sample2](screenshots/sample2.png)
+![sample3](screenshots/sample3.png)
+
+ 
+  
+
 
 
